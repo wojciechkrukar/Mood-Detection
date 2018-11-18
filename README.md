@@ -1,5 +1,5 @@
 # Mood-Detection
-Deep Learning model for human mood detection and live video stream inference
+Deep Learning model for human mood detection and live video stream inference.
 
 # Requirements
 This scripts require:
@@ -12,4 +12,5 @@ If you want to train the model download dataset from here: https://www.kaggle.co
 
 # Inference
 The script reequires above versions of frameworks.
-Keep in mind that on Mac the LiveCam window appears behind the browser. Windows / Linux not tested
+Keep in mind that on Mac the LiveCam window appears behind the browser. Windows / Linux not tested.
+Trainded model is already included.
